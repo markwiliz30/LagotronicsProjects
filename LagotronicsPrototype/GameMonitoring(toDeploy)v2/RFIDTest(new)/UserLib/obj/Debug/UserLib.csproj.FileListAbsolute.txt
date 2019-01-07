@@ -1,0 +1,6 @@
+E:\RFIDTest\UserLib\bin\Debug\UserLib.dll
+E:\RFIDTest\UserLib\bin\Debug\UserLib.pdb
+E:\RFIDTest\UserLib\obj\Debug\UserLib.dll
+E:\RFIDTest\UserLib\obj\Debug\UserLib.pdb
+E:\RFIDTest\UserLib\obj\Debug\UserLib.csprojAssemblyReference.cache
+E:\RFIDTest\UserLib\obj\Debug\UserLib.csproj.CoreCompileInputs.cache

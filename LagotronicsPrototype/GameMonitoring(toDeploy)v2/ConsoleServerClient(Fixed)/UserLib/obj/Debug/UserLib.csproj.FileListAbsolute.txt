@@ -1,0 +1,4 @@
+D:\ServerClientProject\ConsoleServerClient(Fixed)\UserLib\bin\Debug\UserLib.dll
+D:\ServerClientProject\ConsoleServerClient(Fixed)\UserLib\bin\Debug\UserLib.pdb
+D:\ServerClientProject\ConsoleServerClient(Fixed)\UserLib\obj\Debug\UserLib.dll
+D:\ServerClientProject\ConsoleServerClient(Fixed)\UserLib\obj\Debug\UserLib.pdb

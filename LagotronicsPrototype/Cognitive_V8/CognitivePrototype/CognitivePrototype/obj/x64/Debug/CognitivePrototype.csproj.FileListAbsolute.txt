@@ -1,0 +1,45 @@
+c:\users\user\documents\visual studio 2015\Projects\CognitivePrototype\CognitivePrototype\bin\x64\Debug\CognitivePrototype.exe.config
+c:\users\user\documents\visual studio 2015\Projects\CognitivePrototype\CognitivePrototype\bin\x64\Debug\CognitivePrototype.exe
+c:\users\user\documents\visual studio 2015\Projects\CognitivePrototype\CognitivePrototype\bin\x64\Debug\CognitivePrototype.pdb
+c:\users\user\documents\visual studio 2015\Projects\CognitivePrototype\CognitivePrototype\bin\x64\Debug\ArtNet.dll
+c:\users\user\documents\visual studio 2015\Projects\CognitivePrototype\CognitivePrototype\bin\x64\Debug\Bunifu_UI_v1.4.dll
+c:\users\user\documents\visual studio 2015\Projects\CognitivePrototype\CognitivePrototype\bin\x64\Debug\MoxaIOLogik_CSharp.dll
+c:\users\user\documents\visual studio 2015\Projects\CognitivePrototype\CognitivePrototype\bin\x64\Debug\ArtNet.pdb
+c:\users\user\documents\visual studio 2015\Projects\CognitivePrototype\CognitivePrototype\obj\x64\Debug\CognitivePrototype.CognitiveForm.resources
+c:\users\user\documents\visual studio 2015\Projects\CognitivePrototype\CognitivePrototype\obj\x64\Debug\CognitivePrototype.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\CognitivePrototype\CognitivePrototype\obj\x64\Debug\CognitivePrototype.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\CognitivePrototype\CognitivePrototype\obj\x64\Debug\CognitivePrototype.exe
+c:\users\user\documents\visual studio 2015\Projects\CognitivePrototype\CognitivePrototype\obj\x64\Debug\CognitivePrototype.pdb
+c:\users\user\documents\visual studio 2015\Projects\CognitivePrototype\CognitivePrototype\obj\x64\Debug\CognitivePrototype.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\CognitivePrototype\CognitivePrototype\bin\x64\Debug\CognitivePrototype.exe.manifest
+C:\Users\user\Documents\Visual Studio 2015\Projects\CognitivePrototype\CognitivePrototype\bin\x64\Debug\CognitivePrototype.application
+C:\Users\user\Documents\Visual Studio 2015\Projects\CognitivePrototype\CognitivePrototype\obj\x64\Debug\CognitivePrototype.TrustInfo.xml
+C:\Users\user\Documents\Visual Studio 2015\Projects\CognitivePrototype\CognitivePrototype\obj\x64\Debug\CognitivePrototype.exe.manifest
+C:\Users\user\Documents\Visual Studio 2015\Projects\CognitivePrototype\CognitivePrototype\obj\x64\Debug\CognitivePrototype.application
+C:\Users\user\Documents\Visual Studio 2015\Projects\CognitivePrototype\CognitivePrototype\obj\x64\Debug\Interop.MediaPlayer.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\CognitivePrototype\CognitivePrototype\obj\x64\Debug\Interop.WMPLib.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\CognitivePrototype\CognitivePrototype\obj\x64\Debug\CognitivePrototype.csproj.ResolveComReference.cache
+G:\CognitivePrototype\CognitivePrototype\bin\x64\Debug\CognitivePrototype.exe.config
+G:\CognitivePrototype\CognitivePrototype\obj\x64\Debug\Interop.MediaPlayer.dll
+G:\CognitivePrototype\CognitivePrototype\obj\x64\Debug\Interop.WMPLib.dll
+G:\CognitivePrototype\CognitivePrototype\obj\x64\Debug\CognitivePrototype.csproj.ResolveComReference.cache
+G:\CognitivePrototype\CognitivePrototype\obj\x64\Debug\CognitivePrototype.exe
+G:\CognitivePrototype\CognitivePrototype\obj\x64\Debug\CognitivePrototype.pdb
+G:\CognitivePrototype\CognitivePrototype\bin\x64\Debug\CognitivePrototype.exe.manifest
+G:\CognitivePrototype\CognitivePrototype\bin\x64\Debug\CognitivePrototype.application
+G:\CognitivePrototype\CognitivePrototype\bin\x64\Debug\CognitivePrototype.exe
+G:\CognitivePrototype\CognitivePrototype\bin\x64\Debug\CognitivePrototype.pdb
+G:\CognitivePrototype\CognitivePrototype\bin\x64\Debug\ArtNet.pdb
+G:\CognitivePrototype\CognitivePrototype\obj\x64\Debug\CognitivePrototype.csprojResolveAssemblyReference.cache
+G:\CognitivePrototype\CognitivePrototype\obj\x64\Debug\CognitivePrototype.CognitiveForm.resources
+G:\CognitivePrototype\CognitivePrototype\obj\x64\Debug\CognitivePrototype.Properties.Resources.resources
+G:\CognitivePrototype\CognitivePrototype\obj\x64\Debug\CognitivePrototype.csproj.GenerateResource.Cache
+G:\CognitivePrototype\CognitivePrototype\obj\x64\Debug\CognitivePrototype.TrustInfo.xml
+G:\CognitivePrototype\CognitivePrototype\obj\x64\Debug\CognitivePrototype.exe.manifest
+G:\CognitivePrototype\CognitivePrototype\obj\x64\Debug\CognitivePrototype.application
+D:\Cognitive_V8\CognitivePrototype\CognitivePrototype\bin\x64\Debug\CognitivePrototype.exe.config
+D:\Cognitive_V8\CognitivePrototype\CognitivePrototype\obj\x64\Debug\Interop.MediaPlayer.dll
+D:\Cognitive_V8\CognitivePrototype\CognitivePrototype\obj\x64\Debug\Interop.WMPLib.dll
+D:\Cognitive_V8\CognitivePrototype\CognitivePrototype\obj\x64\Debug\CognitivePrototype.csproj.ResolveComReference.cache
+D:\Cognitive_V8\CognitivePrototype\CognitivePrototype\obj\x64\Debug\CognitivePrototype.exe
+D:\Cognitive_V8\CognitivePrototype\CognitivePrototype\obj\x64\Debug\CognitivePrototype.pdb

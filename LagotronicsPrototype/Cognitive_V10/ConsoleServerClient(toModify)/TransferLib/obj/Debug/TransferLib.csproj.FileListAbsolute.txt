@@ -1,0 +1,12 @@
+D:\ServerClientProject\ConsoleServerClient(toModify)\TransferLib\bin\Debug\TransferLib.dll
+D:\ServerClientProject\ConsoleServerClient(toModify)\TransferLib\bin\Debug\TransferLib.pdb
+D:\ServerClientProject\ConsoleServerClient(toModify)\TransferLib\obj\Debug\TransferLib.dll
+D:\ServerClientProject\ConsoleServerClient(toModify)\TransferLib\obj\Debug\TransferLib.pdb
+D:\ServerClientProject\ConsoleServerClient(toModify)\TransferLib\obj\Debug\TransferLib.csprojAssemblyReference.cache
+D:\ServerClientProject\ConsoleServerClient(toModify)\TransferLib\obj\Debug\TransferLib.csproj.CoreCompileInputs.cache
+E:\GameMonitoringProj\GameMonitoring(toDeploy)\ConsoleServerClient(toModify)\TransferLib\bin\Debug\TransferLib.dll
+E:\GameMonitoringProj\GameMonitoring(toDeploy)\ConsoleServerClient(toModify)\TransferLib\bin\Debug\TransferLib.pdb
+E:\GameMonitoringProj\GameMonitoring(toDeploy)\ConsoleServerClient(toModify)\TransferLib\obj\Debug\TransferLib.csprojAssemblyReference.cache
+E:\GameMonitoringProj\GameMonitoring(toDeploy)\ConsoleServerClient(toModify)\TransferLib\obj\Debug\TransferLib.csproj.CoreCompileInputs.cache
+E:\GameMonitoringProj\GameMonitoring(toDeploy)\ConsoleServerClient(toModify)\TransferLib\obj\Debug\TransferLib.dll
+E:\GameMonitoringProj\GameMonitoring(toDeploy)\ConsoleServerClient(toModify)\TransferLib\obj\Debug\TransferLib.pdb

@@ -1,0 +1,5 @@
+D:\ServerClientProject\ConsoleServerClient(toModify)\TransferLib\bin\Debug\TransferLib.dll
+D:\ServerClientProject\ConsoleServerClient(toModify)\TransferLib\bin\Debug\TransferLib.pdb
+D:\ServerClientProject\ConsoleServerClient(toModify)\TransferLib\obj\Debug\TransferLib.csprojResolveAssemblyReference.cache
+D:\ServerClientProject\ConsoleServerClient(toModify)\TransferLib\obj\Debug\TransferLib.dll
+D:\ServerClientProject\ConsoleServerClient(toModify)\TransferLib\obj\Debug\TransferLib.pdb

@@ -1,0 +1,9 @@
+D:\ServerClientProject\ConsoleServerClient(Fixed)\FirebaseLib\bin\Debug\FirebaseLib.dll
+D:\ServerClientProject\ConsoleServerClient(Fixed)\FirebaseLib\bin\Debug\FirebaseLib.pdb
+D:\ServerClientProject\ConsoleServerClient(Fixed)\FirebaseLib\bin\Debug\Newtonsoft.Json.dll
+D:\ServerClientProject\ConsoleServerClient(Fixed)\FirebaseLib\bin\Debug\RestSharp.xml
+D:\ServerClientProject\ConsoleServerClient(Fixed)\FirebaseLib\obj\Debug\FirebaseLib.dll
+D:\ServerClientProject\ConsoleServerClient(Fixed)\FirebaseLib\obj\Debug\FirebaseLib.pdb
+D:\ServerClientProject\ConsoleServerClient(Fixed)\FirebaseLib\obj\Debug\FirebaseLib.csprojAssemblyReference.cache
+D:\ServerClientProject\ConsoleServerClient(Fixed)\FirebaseLib\obj\Debug\FirebaseLib.csproj.CoreCompileInputs.cache
+D:\ServerClientProject\ConsoleServerClient(Fixed)\FirebaseLib\obj\Debug\FirebaseLib.csproj.CopyComplete

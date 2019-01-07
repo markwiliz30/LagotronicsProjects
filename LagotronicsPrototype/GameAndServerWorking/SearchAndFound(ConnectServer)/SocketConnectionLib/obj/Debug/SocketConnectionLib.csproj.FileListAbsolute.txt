@@ -1,0 +1,5 @@
+D:\ServerClientProject\SearchAndFound(ConnectServer)\SocketConnectionLib\bin\Debug\SocketConnectionLib.dll
+D:\ServerClientProject\SearchAndFound(ConnectServer)\SocketConnectionLib\bin\Debug\SocketConnectionLib.pdb
+D:\ServerClientProject\SearchAndFound(ConnectServer)\SocketConnectionLib\obj\Debug\SocketConnectionLib.csprojResolveAssemblyReference.cache
+D:\ServerClientProject\SearchAndFound(ConnectServer)\SocketConnectionLib\obj\Debug\SocketConnectionLib.dll
+D:\ServerClientProject\SearchAndFound(ConnectServer)\SocketConnectionLib\obj\Debug\SocketConnectionLib.pdb

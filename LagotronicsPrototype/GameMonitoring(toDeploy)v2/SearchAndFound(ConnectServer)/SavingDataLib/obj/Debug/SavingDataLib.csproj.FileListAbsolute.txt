@@ -1,0 +1,16 @@
+D:\ServerClientProject\SearchAndFound(ConnectServer)\SavingDataLib\bin\Debug\SavingDataLib.dll
+D:\ServerClientProject\SearchAndFound(ConnectServer)\SavingDataLib\bin\Debug\SavingDataLib.pdb
+D:\ServerClientProject\SearchAndFound(ConnectServer)\SavingDataLib\obj\Debug\SavingDataLib.csprojResolveAssemblyReference.cache
+D:\ServerClientProject\SearchAndFound(ConnectServer)\SavingDataLib\obj\Debug\SavingDataLib.dll
+D:\ServerClientProject\SearchAndFound(ConnectServer)\SavingDataLib\obj\Debug\SavingDataLib.pdb
+D:\ServerClientProject\SearchAndFound(ConnectServer)\SavingDataLib\bin\Debug\SocketConnectionLib.dll
+D:\ServerClientProject\SearchAndFound(ConnectServer)\SavingDataLib\bin\Debug\SocketConnectionLib.pdb
+E:\GameMonitoringProj\SearchAndFound(ConnectServer)\SavingDataLib\bin\Debug\SavingDataLib.dll
+E:\GameMonitoringProj\SearchAndFound(ConnectServer)\SavingDataLib\bin\Debug\SavingDataLib.pdb
+E:\GameMonitoringProj\SearchAndFound(ConnectServer)\SavingDataLib\bin\Debug\SocketConnectionLib.dll
+E:\GameMonitoringProj\SearchAndFound(ConnectServer)\SavingDataLib\bin\Debug\SocketConnectionLib.pdb
+E:\GameMonitoringProj\SearchAndFound(ConnectServer)\SavingDataLib\obj\Debug\SavingDataLib.csprojAssemblyReference.cache
+E:\GameMonitoringProj\SearchAndFound(ConnectServer)\SavingDataLib\obj\Debug\SavingDataLib.csproj.CoreCompileInputs.cache
+E:\GameMonitoringProj\SearchAndFound(ConnectServer)\SavingDataLib\obj\Debug\SavingDataLib.csproj.CopyComplete
+E:\GameMonitoringProj\SearchAndFound(ConnectServer)\SavingDataLib\obj\Debug\SavingDataLib.dll
+E:\GameMonitoringProj\SearchAndFound(ConnectServer)\SavingDataLib\obj\Debug\SavingDataLib.pdb

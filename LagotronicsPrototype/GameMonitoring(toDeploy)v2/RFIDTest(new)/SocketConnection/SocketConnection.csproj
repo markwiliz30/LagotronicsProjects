@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="FirebaseLib">
+      <HintPath>D:\ServerClientProject\ConsoleServerClient(Fixed)\FirebaseLib\bin\Debug\FirebaseLib.dll</HintPath>
+    </Reference>
+    <Reference Include="TransferLib">
+      <HintPath>D:\ServerClientProject\GameAndServerWorking\ConsoleServerClient(toModify)\TransferLib\bin\Debug\TransferLib.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

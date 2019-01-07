@@ -1,0 +1,16 @@
+D:\ServerClientProject\SearchAndFound(ConnectServer)\SocketConnectionLib\bin\Debug\SocketConnectionLib.dll
+D:\ServerClientProject\SearchAndFound(ConnectServer)\SocketConnectionLib\bin\Debug\SocketConnectionLib.pdb
+D:\ServerClientProject\SearchAndFound(ConnectServer)\SocketConnectionLib\obj\Debug\SocketConnectionLib.csprojResolveAssemblyReference.cache
+D:\ServerClientProject\SearchAndFound(ConnectServer)\SocketConnectionLib\obj\Debug\SocketConnectionLib.dll
+D:\ServerClientProject\SearchAndFound(ConnectServer)\SocketConnectionLib\obj\Debug\SocketConnectionLib.pdb
+E:\GameMonitoringProj\SearchAndFound(ConnectServer)\SocketConnectionLib\bin\Debug\SocketConnectionLib.dll
+E:\GameMonitoringProj\SearchAndFound(ConnectServer)\SocketConnectionLib\bin\Debug\SocketConnectionLib.pdb
+E:\GameMonitoringProj\SearchAndFound(ConnectServer)\SocketConnectionLib\obj\Debug\SocketConnectionLib.csproj.CoreCompileInputs.cache
+E:\GameMonitoringProj\SearchAndFound(ConnectServer)\SocketConnectionLib\obj\Debug\SocketConnectionLib.dll
+E:\GameMonitoringProj\SearchAndFound(ConnectServer)\SocketConnectionLib\obj\Debug\SocketConnectionLib.pdb
+E:\GameMonitoringProj\SearchAndFound(ConnectServer)\SocketConnectionLib\obj\Debug\SocketConnectionLib.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\devFiles\Cognitive_V8\CognitivePrototype\SocketConnectionLib\bin\Debug\SocketConnectionLib.dll
+C:\Users\asus\Desktop\devFiles\Cognitive_V8\CognitivePrototype\SocketConnectionLib\bin\Debug\SocketConnectionLib.pdb
+C:\Users\asus\Desktop\devFiles\Cognitive_V8\CognitivePrototype\SocketConnectionLib\obj\Debug\SocketConnectionLib.csprojResolveAssemblyReference.cache
+C:\Users\asus\Desktop\devFiles\Cognitive_V8\CognitivePrototype\SocketConnectionLib\obj\Debug\SocketConnectionLib.dll
+C:\Users\asus\Desktop\devFiles\Cognitive_V8\CognitivePrototype\SocketConnectionLib\obj\Debug\SocketConnectionLib.pdb

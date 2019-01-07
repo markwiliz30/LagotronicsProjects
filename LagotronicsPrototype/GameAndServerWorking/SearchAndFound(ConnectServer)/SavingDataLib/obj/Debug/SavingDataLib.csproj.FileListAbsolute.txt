@@ -1,0 +1,7 @@
+D:\ServerClientProject\SearchAndFound(ConnectServer)\SavingDataLib\bin\Debug\SavingDataLib.dll
+D:\ServerClientProject\SearchAndFound(ConnectServer)\SavingDataLib\bin\Debug\SavingDataLib.pdb
+D:\ServerClientProject\SearchAndFound(ConnectServer)\SavingDataLib\obj\Debug\SavingDataLib.csprojResolveAssemblyReference.cache
+D:\ServerClientProject\SearchAndFound(ConnectServer)\SavingDataLib\obj\Debug\SavingDataLib.dll
+D:\ServerClientProject\SearchAndFound(ConnectServer)\SavingDataLib\obj\Debug\SavingDataLib.pdb
+D:\ServerClientProject\SearchAndFound(ConnectServer)\SavingDataLib\bin\Debug\SocketConnectionLib.dll
+D:\ServerClientProject\SearchAndFound(ConnectServer)\SavingDataLib\bin\Debug\SocketConnectionLib.pdb

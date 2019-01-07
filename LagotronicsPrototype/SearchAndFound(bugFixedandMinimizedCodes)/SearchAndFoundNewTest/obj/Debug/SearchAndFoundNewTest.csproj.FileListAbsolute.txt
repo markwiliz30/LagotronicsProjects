@@ -1,0 +1,56 @@
+D:\SearchAndFoundToDebug\SearchAndFoundNewTest\SearchAndFoundNewTest\bin\Debug\SearchAndFoundNewTest.exe.config
+D:\SearchAndFoundToDebug\SearchAndFoundNewTest\SearchAndFoundNewTest\bin\Debug\SearchAndFoundNewTest.exe
+D:\SearchAndFoundToDebug\SearchAndFoundNewTest\SearchAndFoundNewTest\bin\Debug\SearchAndFoundNewTest.pdb
+D:\SearchAndFoundToDebug\SearchAndFoundNewTest\SearchAndFoundNewTest\bin\Debug\Bunifu_UI_v1.4.dll
+D:\SearchAndFoundToDebug\SearchAndFoundNewTest\SearchAndFoundNewTest\obj\Debug\SearchAndFoundNewTest.csprojResolveAssemblyReference.cache
+D:\SearchAndFoundToDebug\SearchAndFoundNewTest\SearchAndFoundNewTest\obj\Debug\SearchAndFoundNewTest.Form1.resources
+D:\SearchAndFoundToDebug\SearchAndFoundNewTest\SearchAndFoundNewTest\obj\Debug\SearchAndFoundNewTest.Properties.Resources.resources
+D:\SearchAndFoundToDebug\SearchAndFoundNewTest\SearchAndFoundNewTest\obj\Debug\SearchAndFoundNewTest.csproj.GenerateResource.Cache
+D:\SearchAndFoundToDebug\SearchAndFoundNewTest\SearchAndFoundNewTest\obj\Debug\SearchAndFoundNewTest.exe
+D:\SearchAndFoundToDebug\SearchAndFoundNewTest\SearchAndFoundNewTest\obj\Debug\SearchAndFoundNewTest.pdb
+D:\SearchAndFoundToDebug\SearchAndFoundNewTest\SearchAndFoundNewTest\obj\Debug\Interop.MediaPlayer.dll
+D:\SearchAndFoundToDebug\SearchAndFoundNewTest\SearchAndFoundNewTest\obj\Debug\Interop.WMPLib.dll
+D:\SearchAndFoundToDebug\SearchAndFoundNewTest\SearchAndFoundNewTest\obj\Debug\SearchAndFoundNewTest.csproj.ResolveComReference.cache
+D:\SearchAndFoundToDebug\SearchAndFoundNewTest\SearchAndFoundNewTest\obj\Debug\SearchAndFoundNewTest.MagicStoneKingdomDeviceControlTestingPanelForm.resources
+D:\SearchAndFoundToDebug\SearchAndFoundNewTest\SearchAndFoundNewTest\obj\Debug\SearchAndFoundNewTest.NPortControllerConnectionForm.resources
+D:\SearchAndFoundToDebug\SearchAndFoundNewTest\SearchAndFoundNewTest\bin\Debug\MagicStoneKingdomDeviceControl.dll
+D:\SearchAndFoundToDebug\SearchAndFoundNewTest\SearchAndFoundNewTest\bin\Debug\MoxaIOLogik_CSharp.dll
+D:\SearchAndFoundToDebug\SearchAndFoundNewTest\SearchAndFoundNewTest\bin\Debug\TestingPanelResources.dll
+D:\SearchAndFoundToDebug\SearchAndFoundNewTest\SearchAndFoundNewTest\bin\Debug\LibUsbDotNet.dll
+D:\SearchAndFoundToDebug\SearchAndFoundNewTest\SearchAndFoundNewTest\bin\Debug\SoundEngineCSharp.dll
+D:\SearchAndFoundToDebug\SearchAndFoundNewTest\SearchAndFoundNewTest\bin\Debug\dnAnalytics.dll
+D:\SearchAndFoundToDebug\SearchAndFoundNewTest\SearchAndFoundNewTest\bin\Debug\CSVFileIO.dll
+D:\SearchAndFoundToDebug\SearchAndFoundNewTest\SearchAndFoundNewTest\bin\Debug\WPFToolkit.Extended.dll
+D:\SearchAndFoundToDebug\SearchAndFoundNewTest\SearchAndFoundNewTest\bin\Debug\MagicStoneKingdomDeviceControl.pdb
+D:\SearchAndFoundToDebug\SearchAndFoundNewTest\SearchAndFoundNewTest\bin\Debug\MagicStoneKingdomDeviceControl.xml
+D:\SearchAndFoundToDebug\SearchAndFoundNewTest\SearchAndFoundNewTest\bin\Debug\TestingPanelResources.pdb
+D:\SearchAndFoundToDebug\SearchAndFoundNewTest\SearchAndFoundNewTest\bin\Debug\CSVFileIO.pdb
+D:\Prototype Test\SearchAndFound(bugFixedandMinimizedCodes)\SearchAndFoundNewTest\bin\Debug\SearchAndFoundNewTest.exe.config
+D:\Prototype Test\SearchAndFound(bugFixedandMinimizedCodes)\SearchAndFoundNewTest\obj\Debug\Interop.MediaPlayer.dll
+D:\Prototype Test\SearchAndFound(bugFixedandMinimizedCodes)\SearchAndFoundNewTest\obj\Debug\Interop.WMPLib.dll
+D:\Prototype Test\SearchAndFound(bugFixedandMinimizedCodes)\SearchAndFoundNewTest\obj\Debug\SearchAndFoundNewTest.csproj.ResolveComReference.cache
+D:\Prototype Test\SearchAndFound(bugFixedandMinimizedCodes)\SearchAndFoundNewTest\obj\Debug\SearchAndFoundNewTest.exe
+D:\Prototype Test\SearchAndFound(bugFixedandMinimizedCodes)\SearchAndFoundNewTest\obj\Debug\SearchAndFoundNewTest.pdb
+D:\Prototype Test\SearchAndFound(bugFixedandMinimizedCodes)\SearchAndFoundNewTest\bin\Debug\SearchAndFoundNewTest.exe
+D:\Prototype Test\SearchAndFound(bugFixedandMinimizedCodes)\SearchAndFoundNewTest\bin\Debug\SearchAndFoundNewTest.pdb
+D:\Prototype Test\SearchAndFound(bugFixedandMinimizedCodes)\SearchAndFoundNewTest\bin\Debug\Bunifu_UI_v1.4.dll
+D:\Prototype Test\SearchAndFound(bugFixedandMinimizedCodes)\SearchAndFoundNewTest\bin\Debug\MagicStoneKingdomDeviceControl.dll
+D:\Prototype Test\SearchAndFound(bugFixedandMinimizedCodes)\SearchAndFoundNewTest\bin\Debug\MoxaIOLogik_CSharp.dll
+D:\Prototype Test\SearchAndFound(bugFixedandMinimizedCodes)\SearchAndFoundNewTest\bin\Debug\TestingPanelResources.dll
+D:\Prototype Test\SearchAndFound(bugFixedandMinimizedCodes)\SearchAndFoundNewTest\bin\Debug\LibUsbDotNet.dll
+D:\Prototype Test\SearchAndFound(bugFixedandMinimizedCodes)\SearchAndFoundNewTest\bin\Debug\SoundEngineCSharp.dll
+D:\Prototype Test\SearchAndFound(bugFixedandMinimizedCodes)\SearchAndFoundNewTest\bin\Debug\dnAnalytics.dll
+D:\Prototype Test\SearchAndFound(bugFixedandMinimizedCodes)\SearchAndFoundNewTest\bin\Debug\CSVFileIO.dll
+D:\Prototype Test\SearchAndFound(bugFixedandMinimizedCodes)\SearchAndFoundNewTest\bin\Debug\WPFToolkit.Extended.dll
+D:\Prototype Test\SearchAndFound(bugFixedandMinimizedCodes)\SearchAndFoundNewTest\bin\Debug\MagicStoneKingdomDeviceControl.pdb
+D:\Prototype Test\SearchAndFound(bugFixedandMinimizedCodes)\SearchAndFoundNewTest\bin\Debug\MagicStoneKingdomDeviceControl.xml
+D:\Prototype Test\SearchAndFound(bugFixedandMinimizedCodes)\SearchAndFoundNewTest\bin\Debug\TestingPanelResources.pdb
+D:\Prototype Test\SearchAndFound(bugFixedandMinimizedCodes)\SearchAndFoundNewTest\bin\Debug\CSVFileIO.pdb
+D:\Prototype Test\SearchAndFound(bugFixedandMinimizedCodes)\SearchAndFoundNewTest\obj\Debug\SearchAndFoundNewTest.csprojAssemblyReference.cache
+D:\Prototype Test\SearchAndFound(bugFixedandMinimizedCodes)\SearchAndFoundNewTest\obj\Debug\SearchAndFoundNewTest.Form1.resources
+D:\Prototype Test\SearchAndFound(bugFixedandMinimizedCodes)\SearchAndFoundNewTest\obj\Debug\SearchAndFoundNewTest.MagicStoneKingdomDeviceControlTestingPanelForm.resources
+D:\Prototype Test\SearchAndFound(bugFixedandMinimizedCodes)\SearchAndFoundNewTest\obj\Debug\SearchAndFoundNewTest.NPortControllerConnectionForm.resources
+D:\Prototype Test\SearchAndFound(bugFixedandMinimizedCodes)\SearchAndFoundNewTest\obj\Debug\SearchAndFoundNewTest.Properties.Resources.resources
+D:\Prototype Test\SearchAndFound(bugFixedandMinimizedCodes)\SearchAndFoundNewTest\obj\Debug\SearchAndFoundNewTest.csproj.GenerateResource.cache
+D:\Prototype Test\SearchAndFound(bugFixedandMinimizedCodes)\SearchAndFoundNewTest\obj\Debug\SearchAndFoundNewTest.csproj.CoreCompileInputs.cache
+D:\Prototype Test\SearchAndFound(bugFixedandMinimizedCodes)\SearchAndFoundNewTest\obj\Debug\SearchAndFoundNewTest.csproj.CopyComplete
