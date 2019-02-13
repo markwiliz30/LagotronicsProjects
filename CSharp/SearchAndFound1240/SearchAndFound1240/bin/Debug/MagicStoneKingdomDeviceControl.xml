@@ -1,0 +1,342 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MagicStoneKingdomDeviceControl</name>
+    </assembly>
+    <members>
+        <member name="M:MagicStoneKingdomDeviceControl.UniqueHazeMachineController.SetPumpPower(System.Single)">
+            <summary>
+            Sets pump power.
+            </summary>
+            <param name="pumpPower">Range from 0 - 100</param>
+        </member>
+        <member name="M:MagicStoneKingdomDeviceControl.UniqueHazeMachineController.SetFanPower(System.Single)">
+            <summary>
+            Sets fan power.
+            </summary>
+            <param name="fanPower">Range from 0 - 100</param>
+        </member>
+        <member name="M:MagicStoneKingdomDeviceControl.IOLogikIOServerController.Initialize">
+            <summary>
+            Must be called before creating any instance of IOLogikIOServerController
+            </summary>
+        </member>
+        <member name="M:MagicStoneKingdomDeviceControl.IOLogikIOServerController.End">
+            <summary>
+            Terminates use of any instance of IOLogikIOServerController
+            </summary>
+        </member>
+        <member name="F:MagicStoneKingdomDeviceControl.IOLogikE1241AnalogOutputServerController.analogOutputChannelValuesFromActiveTag">
+            <summary>
+            Values updated to last Active Tag update message.
+            </summary>
+        </member>
+        <member name="M:MagicStoneKingdomDeviceControl.TimeMeasurement.CountDownTimer.Start(System.Single,System.Action)">
+            <summary>
+            Starts timer.
+            </summary>
+            <param name="duration">In seconds.</param>
+            <param name="action"></param>
+        </member>
+        <member name="P:MagicStoneKingdomDeviceControl.TimeMeasurement.CountDownTimer.Duration">
+            <summary>
+            In seconds.
+            </summary>
+        </member>
+        <member name="M:MagicStoneKingdomDeviceControl.ModbusTCP.CreateHeader(System.Byte[])">
+            <summary>
+            Create MBAPHeader struct form byte array in Big-Endian adressing
+            </summary>
+        </member>
+        <member name="M:MagicStoneKingdomDeviceControl.ModbusTCP.GetMBAPHeaderBytes(MagicStoneKingdomDeviceControl.ModbusTCP.MBAPHeader)">
+            <summary>
+            Get bytes from MBAPHeader in Big-Endian adressing
+            </summary>
+        </member>
+        <member name="M:MagicStoneKingdomDeviceControl.ModbusTCP.CreateMoxaConnectionRequestPDU(System.Byte[])">
+            <summary>
+            Create MoxaConnectionPDU struct form byte array in Big-Endian adressing
+            </summary>
+        </member>
+        <member name="M:MagicStoneKingdomDeviceControl.ModbusTCP.GetMoxaConnectionRequestPDUBytes(MagicStoneKingdomDeviceControl.ModbusTCP.MoxaConnectionRequestPDU)">
+            <summary>
+            Get bytes from MoxaConnectionRequestPDU in Big-Endian adressing
+            </summary>
+        </member>
+        <member name="M:MagicStoneKingdomDeviceControl.ModbusTCP.GetMoxaConnectionResponsePDUBytes(MagicStoneKingdomDeviceControl.ModbusTCP.MoxaConnectionResponsePDU)">
+            <summary>
+            Get bytes from MoxaConnectionResponsePDU in Big-Endian adressing
+            </summary>
+        </member>
+        <member name="M:MagicStoneKingdomDeviceControl.ModbusTCP.CreateMoxaQueryDeviceIDRequestPDU(System.Byte[])">
+            <summary>
+            Create MoxaQueryDeviceIDPDURequest struct form byte array in Big-Endian adressing
+            </summary>
+        </member>
+        <member name="M:MagicStoneKingdomDeviceControl.ModbusTCP.GetMoxaQueryDeviceIDRequestPDUBytes(MagicStoneKingdomDeviceControl.ModbusTCP.MoxaQueryDeviceIDRequestPDU)">
+            <summary>
+            Get bytes from MoxaQueryDeviceIDPDURequest in Big-Endian adressing
+            </summary>
+        </member>
+        <member name="M:MagicStoneKingdomDeviceControl.ModbusTCP.GetMoxaQueryDeviceIDResponsePDUBytes(MagicStoneKingdomDeviceControl.ModbusTCP.MoxaQueryDeviceIDResponsePDU)">
+            <summary>
+            Get bytes from MoxaQueryDeviceIDResponsePUD in Big-Endian adressing
+            </summary>
+        </member>
+        <member name="M:MagicStoneKingdomDeviceControl.ModbusTCP.GetReadCoilsRequestPDUBytes(MagicStoneKingdomDeviceControl.ModbusTCP.ReadCoilsRequestPDU)">
+            <summary>
+            Get bytes from ReadCoilsRequestPDU in Big-Endian adressing
+            </summary>
+        </member>
+        <member name="M:MagicStoneKingdomDeviceControl.ModbusTCP.GetReadCoilsResponsePDUBytes(MagicStoneKingdomDeviceControl.ModbusTCP.ReadCoilsResponsePDU)">
+            <summary>
+            Get bytes from ReadCoilsResponsePDU in Big-Endian adressing
+            </summary>
+        </member>
+        <member name="M:MagicStoneKingdomDeviceControl.ModbusTCP.GetReadDiscreteInputsRequestPDUBytes(MagicStoneKingdomDeviceControl.ModbusTCP.ReadDiscreteInputsRequestPDU)">
+            <summary>
+            Get bytes from ReadDiscreteInputsRequestPDU in Big-Endian adressing
+            </summary>
+            <param name="moxaConnectionResponsePDU"></param>
+            <returns></returns>
+        </member>
+        <member name="M:MagicStoneKingdomDeviceControl.ModbusTCP.GetReadDiscreteInputsResponsePDUBytes(MagicStoneKingdomDeviceControl.ModbusTCP.ReadDiscreteInputsResponsePDU)">
+            <summary>
+            Get bytes from ReadDiscreteInputsResponsePDU in Big-Endian adressing
+            </summary>
+        </member>
+        <member name="M:MagicStoneKingdomDeviceControl.ModbusTCP.GetReadInputRegistersRequestPDUBytes(MagicStoneKingdomDeviceControl.ModbusTCP.ReadInputRegistersRequestPDU)">
+            <summary>
+            Get bytes from ReadInputRegistersRequestPDU in Big-Endian adressing
+            </summary>
+        </member>
+        <member name="M:MagicStoneKingdomDeviceControl.ModbusTCP.GetReadInputRegistersResponsePDUBytes(MagicStoneKingdomDeviceControl.ModbusTCP.ReadInputRegistersResponsePDU)">
+            <summary>
+            Get bytes from ReadInputRegistersResponsePDU in Big-Endian adressing
+            </summary>
+        </member>
+        <member name="M:MagicStoneKingdomDeviceControl.ModbusTCP.GetWriteSingleCoilRequestPDUBytes(MagicStoneKingdomDeviceControl.ModbusTCP.WriteSingleCoilRequestPDU)">
+            <summary>
+            Get bytes from WriteSingleCoilRequestPDU in Big-Endian adressing
+            </summary>
+        </member>
+        <member name="M:MagicStoneKingdomDeviceControl.ModbusTCP.GetWriteSingleCoilResponsePDUBytes(MagicStoneKingdomDeviceControl.ModbusTCP.WriteSingleCoilResponsePDU)">
+            <summary>
+            Get bytes from WriteSingleCoilResponsePDU in Big-Endian adressing
+            </summary>
+        </member>
+        <member name="M:MagicStoneKingdomDeviceControl.ModbusTCP.GetMoxaQueryChannelModeRequestPDUBytes(MagicStoneKingdomDeviceControl.ModbusTCP.MoxaQueryChannelModeRequestPDU)">
+            <summary>
+            Get bytes from MoxaQueryChannelModeRequestPDU in Big-Endian adressing
+            </summary>
+        </member>
+        <member name="M:MagicStoneKingdomDeviceControl.ModbusTCP.GetMoxaQueryChannelModeResponsePDUBytes(MagicStoneKingdomDeviceControl.ModbusTCP.MoxaQueryChannelModeResponsePDU)">
+            <summary>
+            Get bytes from MoxaQueryChannelModeResponsePDU in Big-Endian adressing
+            </summary>
+        </member>
+        <member name="M:MagicStoneKingdomDeviceControl.ModbusTCP.GetMoxaQueryChannelIOModeRequestPDUBytes(MagicStoneKingdomDeviceControl.ModbusTCP.MoxaQueryChannelIOModeRequestPDU)">
+            <summary>
+            Get bytes from MoxaQueryChannelIOModeRequestPDU in Big-Endian adressing
+            </summary>
+        </member>
+        <member name="M:MagicStoneKingdomDeviceControl.ModbusTCP.GetMoxaQueryChannelIOModeResponsePDUBytes(MagicStoneKingdomDeviceControl.ModbusTCP.MoxaQueryChannelIOModeResponsePDU)">
+            <summary>
+            Get bytes from MoxaQueryChannelIOModeResponsePDU in Big-Endian adressing
+            </summary>
+        </member>
+        <member name="F:MagicStoneKingdomDeviceControl.IOLogikE1240AnalogInputServerController.analogInputChannelValuesFromActiveTag">
+            <summary>
+            Values updated to last Active Tag update message.
+            </summary>
+        </member>
+        <member name="M:MagicStoneKingdomDeviceControl.MagicStoneKingdomDeviceControlManager.Initialize">
+            <summary>
+            Must be called before creating any instance of MagicStoneKingdomDeviceControlManager
+            </summary>
+        </member>
+        <member name="M:MagicStoneKingdomDeviceControl.MagicStoneKingdomDeviceControlManager.End">
+            <summary>
+            Terminates use of any instance of MagicStoneKingdomDeviceControlManager
+            </summary>
+        </member>
+        <member name="M:MagicStoneKingdomDeviceControl.ViperSSmokeMachineController.SetPumpPower(System.Single)">
+            <summary>
+            Sets pump power.
+            </summary>
+            <param name="pumpPower">Range from 0 - 100</param>
+        </member>
+        <member name="M:MagicStoneKingdomDeviceControl.NPortSerialDeviceServerController.Initialize">
+            <summary>
+            Must be called before creating any instance of SerialDeviceServerController
+            </summary>
+        </member>
+        <member name="M:MagicStoneKingdomDeviceControl.NPortSerialDeviceServerController.End">
+            <summary>
+            Terminates use of any instance of SerialDeviceServerController
+            </summary>
+        </member>
+        <member name="P:MagicStoneKingdomDeviceControl.LightStreamSignalRampFlowSequenceBlock.IterationCount">
+            <summary>
+            Range from 1 to infinity
+            </summary>
+        </member>
+        <member name="P:MagicStoneKingdomDeviceControl.LightStreamSignalRampFlowSequenceBlock.WindowSize">
+            <summary>
+            Range from 0 to infinity
+            </summary>
+        </member>
+        <member name="P:MagicStoneKingdomDeviceControl.LightStreamSignalRampFlowSequenceBlock.WindowOffset">
+            <summary>
+            Range from 0 to 1
+            </summary>
+        </member>
+        <member name="F:MagicStoneKingdomDeviceControl.IOLogikE1210DigitalInputServerController.digitalInputChannelValuesFromActiveTag">
+            <summary>
+            Values updated to last Active Tag update message.
+            </summary>
+        </member>
+        <member name="F:MagicStoneKingdomDeviceControl.IOLogikE1210DigitalInputServerController.digitalInputChannelCounterValuesFromActiveTag">
+            <summary>
+            Values updated to last Active Tag update message.
+            </summary>
+        </member>
+        <member name="M:MagicStoneKingdomDeviceControl.GameDeviceComponentControl.GameDeviceComponentControlManager.Initialize">
+            <summary>
+            Must be called before creating any instance of GameDeviceComponentControlManager
+            </summary>
+        </member>
+        <member name="M:MagicStoneKingdomDeviceControl.GameDeviceComponentControl.GameDeviceComponentControlManager.End">
+            <summary>
+            Terminates use of any instance of GameDeviceComponentControlManager
+            </summary>
+        </member>
+        <member name="M:MagicStoneKingdomDeviceControl.Color.ColorRamp.GetColorValue(System.Single)">
+            <summary>
+            
+            </summary>
+            <param name="position">Range from 0 to 1</param>
+            <returns></returns>
+        </member>
+        <member name="M:MagicStoneKingdomDeviceControl.Color.ColorRamp.Split.#ctor(System.Single,MagicStoneKingdomDeviceControl.Color.ColorValue)">
+            <summary>
+            
+            </summary>
+            <param name="position">Range from 0 to 1</param>
+            <param name="colorValue"></param>
+        </member>
+        <member name="P:MagicStoneKingdomDeviceControl.Color.ColorRamp.Split.Position">
+            <summary>
+            Range from 0 to 1
+            </summary>
+        </member>
+        <member name="F:MagicStoneKingdomDeviceControl.TimeMeasurement.MultimediaTimer.id">
+            <summary>
+            The current timer instance ID
+            </summary>
+        </member>
+        <member name="F:MagicStoneKingdomDeviceControl.TimeMeasurement.MultimediaTimer.thisCB">
+            <summary>
+            The callback used by the the API
+            </summary>
+        </member>
+        <member name="M:MagicStoneKingdomDeviceControl.TimeMeasurement.MultimediaTimer.Stop">
+            <summary>
+            Stop the current timer instance (if any)
+            </summary>
+        </member>
+        <member name="M:MagicStoneKingdomDeviceControl.TimeMeasurement.MultimediaTimer.Start(System.UInt32,System.Boolean)">
+            <summary>
+            Start a timer instance
+            </summary>
+            <param name="ms">Timer interval in milliseconds</param>
+            <param name="repeat">If true sets a repetitive event, otherwise sets a one-shot</param>
+        </member>
+        <member name="E:MagicStoneKingdomDeviceControl.TimeMeasurement.MultimediaTimer.TimerEvent">
+            <summary>
+            The timer elapsed event 
+            </summary>
+        </member>
+        <member name="F:MagicStoneKingdomDeviceControl.IOLogikE1211DigitalOutputServerController.digitalOutputChannelValuesFromActiveTag">
+            <summary>
+            Values updated to last Active Tag update message.
+            </summary>
+        </member>
+        <member name="F:MagicStoneKingdomDeviceControl.GameDeviceComponentControl.GameDeviceComponentControlSignalSequenceLoadingAssistantForm.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:MagicStoneKingdomDeviceControl.GameDeviceComponentControl.GameDeviceComponentControlSignalSequenceLoadingAssistantForm.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:MagicStoneKingdomDeviceControl.GameDeviceComponentControl.GameDeviceComponentControlSignalSequenceLoadingAssistantForm.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:MagicStoneKingdomDeviceControl.IOLogikE1212DigitalIOServerController.digitalInputChannelValuesFromActiveTag">
+            <summary>
+            Values updated to last Active Tag update message.
+            </summary>
+        </member>
+        <member name="F:MagicStoneKingdomDeviceControl.IOLogikE1212DigitalIOServerController.digitalInputChannelCounterValuesFromActiveTag">
+            <summary>
+            Values updated to last Active Tag update message.
+            </summary>
+        </member>
+        <member name="F:MagicStoneKingdomDeviceControl.IOLogikE1212DigitalIOServerController.digitalOutputChannelValuesFromActiveTag">
+            <summary>
+            Values updated to last Active Tag update message.
+            </summary>
+        </member>
+        <member name="M:MagicStoneKingdomDeviceControl.WurgesVibrationMotorController.Connect(MagicStoneKingdomDeviceControl.AnalogSignalOutputInterface)">
+            <summary>
+            Connects Wurges vibration motor
+            </summary>
+            <param name="analogOutputInterface">Analog output interface.</param>
+        </member>
+        <member name="M:MagicStoneKingdomDeviceControl.WurgesVibrationMotorController.SetVibrationPower(System.Single)">
+            <summary>
+            Sets vibration power.
+            </summary>
+            <param name="vibrationPower">Range from 0 - 100</param>
+        </member>
+        <member name="M:MagicStoneKingdomDeviceControl.ArtLynxOPDmxSignalOutputInterface.CommitOutput">
+            <summary>
+            Due to Art-Net limitations, commiting this DmxSignalOutputInterface means commiting the containing Dmx512SignalOutputInterface in ArtLynxOPDmxDeviceServerController.
+            Be awared when calling this method frequently.
+            </summary>
+        </member>
+        <member name="M:MagicStoneKingdomDeviceControl.TraxxAudioPlayerController.SendSetMasterVolumeCommandViaNetwork(System.Single)">
+            <summary>
+            
+            </summary>
+            <param name="masterVolume">Range from 0-100</param>
+        </member>
+        <member name="M:MagicStoneKingdomDeviceControl.TraxxAudioPlayerController.SendSetChannelVolumeCommandViaNetwork(MagicStoneKingdomDeviceControl.TraxxAudioPlayerPresetChannelGroup,System.Single)">
+            <summary>
+            
+            </summary>
+            <param name="presetChannelGroup"></param>
+            <param name="channelVolume">Range from 0-100</param>
+        </member>
+        <member name="M:MagicStoneKingdomDeviceControl.TraxxAudioPlayerController.SendSetMasterVolumeCommandViaSerialPort(System.Single)">
+            <summary>
+            
+            </summary>
+            <param name="masterVolume">Range from 0-100</param>
+        </member>
+        <member name="M:MagicStoneKingdomDeviceControl.TraxxAudioPlayerController.SendSetChannelVolumeCommandViaSerialPort(MagicStoneKingdomDeviceControl.TraxxAudioPlayerPresetChannelGroup,System.Single)">
+            <summary>
+            
+            </summary>
+            <param name="presetChannelGroup"></param>
+            <param name="channelVolume">Range from 0-100</param>
+        </member>
+    </members>
+</doc>
