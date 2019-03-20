@@ -1,0 +1,7 @@
+D:\LagotronicsPrototype\HMI\Custom\ConsoleUDPRec\ConsoleUDPRec\bin\Debug\ConsoleUDPRec.exe.config
+D:\LagotronicsPrototype\HMI\Custom\ConsoleUDPRec\ConsoleUDPRec\bin\Debug\ConsoleUDPRec.exe
+D:\LagotronicsPrototype\HMI\Custom\ConsoleUDPRec\ConsoleUDPRec\bin\Debug\ConsoleUDPRec.pdb
+D:\LagotronicsPrototype\HMI\Custom\ConsoleUDPRec\ConsoleUDPRec\obj\Debug\ConsoleUDPRec.csprojAssemblyReference.cache
+D:\LagotronicsPrototype\HMI\Custom\ConsoleUDPRec\ConsoleUDPRec\obj\Debug\ConsoleUDPRec.csproj.CoreCompileInputs.cache
+D:\LagotronicsPrototype\HMI\Custom\ConsoleUDPRec\ConsoleUDPRec\obj\Debug\ConsoleUDPRec.exe
+D:\LagotronicsPrototype\HMI\Custom\ConsoleUDPRec\ConsoleUDPRec\obj\Debug\ConsoleUDPRec.pdb

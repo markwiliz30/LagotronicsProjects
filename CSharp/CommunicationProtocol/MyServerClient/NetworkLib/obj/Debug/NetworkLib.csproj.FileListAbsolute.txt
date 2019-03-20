@@ -1,0 +1,12 @@
+D:\LagotronicsPrototype\HMI\Custom\MyServerClient\NetworkLib\bin\Debug\NetworkLib.dll
+D:\LagotronicsPrototype\HMI\Custom\MyServerClient\NetworkLib\bin\Debug\NetworkLib.pdb
+D:\LagotronicsPrototype\HMI\Custom\MyServerClient\NetworkLib\obj\Debug\NetworkLib.csprojAssemblyReference.cache
+D:\LagotronicsPrototype\HMI\Custom\MyServerClient\NetworkLib\obj\Debug\NetworkLib.csproj.CoreCompileInputs.cache
+D:\LagotronicsPrototype\HMI\Custom\MyServerClient\NetworkLib\obj\Debug\NetworkLib.dll
+D:\LagotronicsPrototype\HMI\Custom\MyServerClient\NetworkLib\obj\Debug\NetworkLib.pdb
+C:\Users\user\Desktop\dev\MyServerClient\NetworkLib\bin\Debug\NetworkLib.dll
+C:\Users\user\Desktop\dev\MyServerClient\NetworkLib\bin\Debug\NetworkLib.pdb
+C:\Users\user\Desktop\dev\MyServerClient\NetworkLib\obj\Debug\NetworkLib.csprojAssemblyReference.cache
+C:\Users\user\Desktop\dev\MyServerClient\NetworkLib\obj\Debug\NetworkLib.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\dev\MyServerClient\NetworkLib\obj\Debug\NetworkLib.dll
+C:\Users\user\Desktop\dev\MyServerClient\NetworkLib\obj\Debug\NetworkLib.pdb
